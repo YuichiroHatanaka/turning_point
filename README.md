@@ -1,7 +1,9 @@
 # turning_point
 点が道をぐるぐる回るコード
 
-実装環境:Python 3.8.8/gcc 7.3.0
+実装環境
+Python 3.8.8
+GCC 7.3.0
 
 コードは下記のURLから
 
