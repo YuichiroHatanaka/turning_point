@@ -5,8 +5,6 @@
 
 Python 3.8.8
 
-GCC 7.3.0
-
 コードは下記のURLから
 
 https://github.com/YuichiroHatanaka/turning_point/blob/master/turn.ipynb
